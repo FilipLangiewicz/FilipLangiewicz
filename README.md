@@ -10,7 +10,7 @@ Hi there, I'm Filip <img src="https://user-images.githubusercontent.com/1303154/
 ---
 ## 📫 How to reach me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filiplangiewicz/) 
-- [filip.langiewicz@pw.edu.pl](mailto:filip.langiewicz@pw.edu.pl)
+- [filip.langiewicz.stud@pw.edu.pl](mailto:filip.langiewicz.stud@pw.edu.pl)
 <br><br>
 
 ---
