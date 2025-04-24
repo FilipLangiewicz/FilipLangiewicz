@@ -3,9 +3,13 @@ Hi there, I'm Filip <img src="https://user-images.githubusercontent.com/1303154/
 </h1>
 
 ## 💫 About Me:
-:books: I am a Data Science student at the faculty of Mathematics and Information Science at Warsaw Uniwersity of Technology <br><br>
-🔭 I’m currently working on projects for my Data Visualization Techniques and Advanced Object Oriented programming course<br><br>
-🌱 I’m currently learning Advanced Java Implementations, Algorithms and Data Structures and Data manipulation and analysis in R and Pandas<br><br>
+📚 I am a Data Science student at the Faculty of Mathematics and Information Science at Warsaw University of Technology
+
+🧠 I’m currently diving into the field of Artificial Intelligence – developing projects, exploring machine learning concepts, and writing my engineering thesis on this topic
+
+🔍 I’m actively learning about neural networks, model optimization, and practical applications of AI in Python
+
+💡 In parallel, I’m strengthening my skills in data analysis using R and Pandas, and occasionally sharpening my algorithmic thinking with Java and OOP techniques
 
 ---
 ## 📫 How to reach me:
